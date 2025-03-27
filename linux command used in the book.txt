@@ -1,0 +1,10 @@
+uname -r : prints information on the kernel version
+
+
+
+
+types of memories:
+emmc/SD
+ddr
+flash Qspi nand/nor
+
