@@ -1,7 +1,9 @@
 uname -r : prints information on the kernel version
 
 
-
+cat /proc/devices - prints all active devices
+mknod <device_file> <type> <major> <minor>
+mknod /dev/my_char_device c 100 0
 
 types of memories:
 emmc/SD
